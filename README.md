@@ -25,7 +25,8 @@ Bienvenue dans le dépôt GitHub du projet **Maison Connectée**. Ce projet regr
 ## 📖 Présentation
 
 La présentation complète du projet est disponible dans le dossier `/docs/` au fichier :  
-[Présentation du projet (PDF)](./docs/presentation.pdf)  
+📄 [Voir la présentation du projet (PDF)](docs/presentation.pdf)
+
 
 Pour visualiser la présentation, vous pouvez la télécharger et l’ouvrir avec un lecteur PDF.
 
