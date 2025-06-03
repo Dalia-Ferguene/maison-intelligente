@@ -56,7 +56,9 @@ Installe-les via le **Library Manager** de l'IDE Arduino (`Croquis > Inclure une
 
 ![Aperçu du projet](./preview.gif)
 
-> ![Écran OLED](https://github.com/Dalia-ari/maison-intelligente/blob/main/servo_presence_oled/d%C3%A9monstration/%C3%A9cran_oled.jpeg?raw=true)
+> ![Ouverture de la porte](https://github.com/Dalia-Ferguene/maison-intelligente/blob/main/servo_presence_oled/d%C3%A9monstration/Ouvrir%20la%20porte.gif?raw=true)
+
+> ![Écran OLED](https://github.com/Dalia-Ferguene/maison-intelligente/blob/main/servo_presence_oled/d%C3%A9monstration/%C3%A9cran_oled.jpeg?raw=true)
 
 
 
