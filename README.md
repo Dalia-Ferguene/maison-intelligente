@@ -42,13 +42,6 @@ Les photos et vidéos du montage et des tests sont aussi accessibles dans le dos
 
 
 ---
-
-## 🛠️ Améliorations possibles
-
-- Ajouter un buzzer pour signal sonore lors de la détection de présence.  
-- Intégrer un clavier numérique ou un badge pour sécuriser l’ouverture via code.  
-- Utiliser LoRaWAN pour transmettre les données de température à distance.  
-
 ---
 
 Merci de votre intérêt pour ce projet !  
