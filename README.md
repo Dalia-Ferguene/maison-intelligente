@@ -27,7 +27,7 @@ Bienvenue dans le dépôt GitHub du projet **Maison Connectée**. Ce projet regr
 
 Vous pouvez consulter la présentation complète de notre projet en cliquant sur le lien ci-dessous :
 
-👉 [📂 Présentation du projet (PDF)](https://github.com/Dalia-ari/maison-intelligente/blob/main/docs/presentation.pdf)
+👉 [📂 Présentation du projet (PDF)](https://github.com/Dalia-Ferguene/maison-intelligente/blob/main/docs/presentation.pdf)
 
 
 ---
