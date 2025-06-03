@@ -41,8 +41,7 @@ Ce projet Arduino contrôle un ruban LED WS2812 de 141 LED en le divisant en 3 z
 
 ## 🎥 Aperçu visuel
 
-Tu peux ajouter une capture GIF ou vidéo pour visualiser le rendu des effets lumineux :
+![Ruban LED](https://github.com/Dalia-Ferguene/maison-intelligente/blob/main/leds/D%C3%A9monstration/rubanleds.jpeg?raw=true)
 
-```markdown
 ![Aperçu LED](./preview.gif)
 
