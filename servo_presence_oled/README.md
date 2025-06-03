@@ -56,7 +56,8 @@ Installe-les via le **Library Manager** de l'IDE Arduino (`Croquis > Inclure une
 
 ![Aperçu du projet](./preview.gif)
 
-> *(Ajoute ici un fichier `preview.gif` ou une image GIF de démonstration du montage et de l'affichage)*
+> ![Ouverture de la porte](https://github.com/Dalia-Ferguene/maison-intelligente/blob/main/servo_presence_oled/Ouvrir%20la%20porte.gif?raw=true)
+
 
 ---
 
