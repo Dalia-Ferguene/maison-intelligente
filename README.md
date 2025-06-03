@@ -1,4 +1,4 @@
-# Projet Maison Connectée
+# Projet Maison Connectée "Casa Pequeña"
 
 Bienvenue dans le dépôt GitHub du projet **Maison Connectée**. Ce projet regroupe plusieurs modules de contrôle et de surveillance avec Arduino, incluant la gestion des rubans LEDs, un système de détection de présence avec servo moteur et écran OLED, ainsi que des mesures de température et humidité.
 
