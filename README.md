@@ -29,12 +29,17 @@ Vous pouvez consulter la présentation complète de notre projet en cliquant sur
 
 👉 [📂 Présentation du projet (PDF)](https://github.com/Dalia-Ferguene/maison-intelligente/blob/main/docs/presentation.pdf)
 
+Voici une photo illustrant le projet de maison intelligente :  
+
+![Maison intelligente](https://github.com/Dalia-Ferguene/maison-intelligente/blob/main/docs/maison_intelligente.jpeg)
+
 
 ---
 
 ## 📷 Photos et vidéos
 
-Les photos et vidéos du montage et des tests sont aussi accessibles dans le dossier `/docs/`.
+Les photos et vidéos du montage et des tests sont aussi accessibles dans le dossier `/docs/`
+
 
 ---
 
